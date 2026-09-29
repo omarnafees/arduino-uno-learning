@@ -1,3 +1,5 @@
 # Arduino Uno Learning
 
-This repository documents my journey learning Arduino Uno, from the basics of programming and electronics to building projects and working with different components.
+A collection of my Arduino Uno projects as I learn electronics and programming through hands-on practice.
+
+This repository documents my progress, experiments, and the things I learn along the way.
