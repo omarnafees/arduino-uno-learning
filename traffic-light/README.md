@@ -1,0 +1,19 @@
+# Traffic Light
+
+I used 3 LEDs to make a simple traffic light.
+
+## What I used
+- Arduino Uno
+- Red LED
+- Yellow LED
+- Green LED
+- 3 resistors
+- Breadboard
+- Jumper wires
+
+## What I learned
+- Using digitalWrite()
+- Using pinMode()
+- Using delay()
+- Using for loops
+- Controlling multiple LEDs
