@@ -26,4 +26,5 @@ When the button is not pressed, the RGB LED remains off. When the button is pres
 
 ## Project Video
 
-[[Watch the project on YouTube]([YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=p-wNrhv2z0c))]
+▶️ **Watch the project in action:**
+https://www.youtube.com/watch?v=p-wNrhv2z0c
