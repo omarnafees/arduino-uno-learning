@@ -23,3 +23,7 @@ When the button is not pressed, the RGB LED remains off. When the button is pres
 * Dividing an input range using multiple `else if` conditions
 * Creating smooth RGB color transitions
 * Controlling RGB channels independently
+
+## Project Video
+
+[[Watch the project on YouTube](YOUR_YOUTUBE_LINK_HERE)](https://www.youtube.com/watch?v=p-wNrhv2z0c)
